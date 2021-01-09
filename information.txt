@@ -1,0 +1,20 @@
+<h1>Local COVID-19 Resources</h1>
+<br>
+<div id='ul1'>
+<h1>CWRU Health Services</h1>
+<ul>
+  <h2>If you would like an appointment with Health Services, please call (216) 368-2450 to speak with a
+       medical professional.</h2>
+  <h2>You are welcome to continue using <a href="myhealthconnect.case.edu">myhealthconnect.case.edu</a> for requesting refills and to send messages
+       to your provider.</h2>
+  <h2>If you have a fever, cough, any respiratory symptoms or concern for COVID-19 exposure, please call
+       (216) 368-2450 to receive instructions.</h2>
+</ul>
+<br>
+<h2>Care anytime:</h2>
+<ul>
+  <h2>You can call (216) 368-5872 anytime to speak with a counselor on-call.</h2>
+  <h2>You can call (216) 368-2450 to speak with a nurse on-call.</h2>
+  <h2>You can send a non-urgent message through <a href="myhealthconnect.case.edu">myhealthconnect.case.edu</a>.</h2>
+</ul>
+</div>
