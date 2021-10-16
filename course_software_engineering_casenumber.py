@@ -3,8 +3,6 @@
 
 # Project -> File   ：crawl_data -> course_software_engineering_casenumber
 # IDE    ：PyCharm
-# Author ：Yiyue Qian
-# Contact: yiyue.qian@case.edu
 # Date   ：10/15/2020 8:22 PM
 
 
